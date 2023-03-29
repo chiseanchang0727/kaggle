@@ -1,6 +1,11 @@
 
 # Survival or not?
 
+
+<img src="https://user-images.githubusercontent.com/113814545/228414030-8b0f8625-0d57-4850-be24-ccf496939aa9.png" width="550">
+
+
+
 Spaceship Titanic is a binary classification dataset for predicting whether passenger was transported during the collision.
 
 
