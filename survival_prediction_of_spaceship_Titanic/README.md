@@ -1,5 +1,5 @@
 
-# Survival or not?
+# Survival or Not?
 
 
 <img src="https://user-images.githubusercontent.com/113814545/228414030-8b0f8625-0d57-4850-be24-ccf496939aa9.png" width="550">
