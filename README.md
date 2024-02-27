@@ -1,3 +1,3 @@
-# kaggle
+# Kaggle
 
-The folder contains the Kaggle projects I am working with.
+Kaggle compeitionsd that I joined.
